@@ -2,8 +2,8 @@
 * [Metric Learning](#metric-learning)
 * [Multi Modality](#multi-modality)
 * [Dimension Reduction](#dimension-reduction)
-* [CNN](#cnn)
-* [Alzheimer's](#alzheimer's)
+* [Image Model](#image-model)
+* [Alzheimer](#alzheimer)
 * [Others](#others)
 
 
