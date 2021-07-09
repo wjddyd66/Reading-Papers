@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 * [Metric Learning](#metric-learning)
 * [Multi Modality](#multi-modality)
 * [Dimension Reduction](#dimension-reduction)
