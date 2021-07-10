@@ -16,6 +16,8 @@
 
 * SoftTriple Loss: Deep Metric Learning Without Triplet Sampling: [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qian_SoftTriple_Loss_Deep_Metric_Learning_Without_Triplet_Sampling_ICCV_2019_paper.pdf) [[code]](https://github.com/idstcv/SoftTriple/blob/master/loss/SoftTriple.py) [[review]](https://wjddyd66.github.io/paper/Paper(11)SoftTriple/)
 
+* Beyond triplet loss: a deep quadruplet network for person re-identification: [[paper]](https://arxiv.org/pdf/1704.01719.pdf) [[code]](https://github.com/sooooojinlee/P1) [[review]](https://wjddyd66.github.io/paper/Paper(18)Quadruplet/)
+
 
 # Multi Modality
 * DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays: [[paper]](https://pubmed.ncbi.nlm.nih.gov/30657866/)
