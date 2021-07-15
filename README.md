@@ -8,6 +8,8 @@
 
 
 # Metric Learning
+* Sampling Matters in Deep Embedding Learning: [[paper]](https://arxiv.org/pdf/1706.07567.pdf) [[code]](https://github.com/suruoxi/DistanceWeightedSampling/blob/ea8561ad0e6d6e728e3ec121fd8cf500c52f83f8/model.py#L93) [[review]](https://wjddyd66.github.io/paper/Paper(19)Sampling_Matters_in_Deep_Embedding_Learning/)
+
 * In Defense of the Triplet Loss for Person Re-Identification: [[paper]](https://arxiv.org/pdf/1703.07737.pdf)
 
 * Learning to Compare: Relation Network for Few-Shot Learning: [[paper]](https://arxiv.org/pdf/1711.06025.pdf) [[code]](https://github.com/floodsung/LearningToCompare_FSL)
