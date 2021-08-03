@@ -120,3 +120,5 @@
 * DECOUPLED WEIGHT DECAY REGULARIZATION: [[paper]](https://arxiv.org/pdf/1711.05101.pdf)
 
 * SMOTE: Synthetic Minority Over-sampling Technique: [[paper]](https://arxiv.org/pdf/1106.1813.pdf)
+
+* Multimodal data visualization, denoising and clustering with integrated diffusion: [[paper]](https://arxiv.org/pdf/2102.06757.pdf) [[review]](https://wjddyd66.github.io/paper/Paper(20)Multi_Modal_Visualization/)
