@@ -53,6 +53,8 @@
 
 * Gradient Surgery for Multi-Task Learning: [[paper]](https://proceedings.neurips.cc/paper/2020/file/3fe78a8acf5fda99de95303940a2420c-Paper.pdf) [[code]](https://github.com/WeiChengTseng/Pytorch-PCGrad) [[review]](https://wjddyd66.github.io/paper/Paper(10)PCGrad/)
 
+* DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6735831/pdf/bty1054.pdf) [[code]](https://github.com/singha53/diablo) [[review]](https://wjddyd66.github.io/paper/Paper(21)DiaBLO/)
+
 
 # Dimension Reduction
 * Deep Canonical Correlation Analysis: [[paper]](https://proceedings.mlr.press/v28/andrew13.html)
