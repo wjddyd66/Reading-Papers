@@ -105,6 +105,8 @@
 
 * Predicting Alzheimer's disease: a neuroimaging study with 3D convolutional neural networks: [[paper]](https://arxiv.org/abs/1502.02506)
 
+* Meta-analysis based SVM classification enables accurate detection of Alzheimer's disease across different clinical centers using FDG-PET and MRI: [[paper]](https://www.sciencedirect.com/science/article/pii/S0925492712000856?via%3Dihub3)
+
 
 # Others
 * Extreme Learning Machine for Regression and Multiclass Classification: [[paper]](https://ieeexplore.ieee.org/document/6035797)
