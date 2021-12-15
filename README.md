@@ -55,6 +55,8 @@
 
 * DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays: [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6735831/pdf/bty1054.pdf) [[code]](https://github.com/singha53/diablo) [[review]](https://wjddyd66.github.io/paper/Paper(21)DiaBLO/)
 
+* Deep learning based feature-level integration of multi-omics data for breast cancer patients survival analysis: [[paper]](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-020-01225-8.pdf) [[code]](https://github.com/tongli1210/BreastCancerSurvivalIntegration) [[review]](https://wjddyd66.github.io/paper/Cross_AE(23)/)
+
 
 # Dimension Reduction
 * Deep Canonical Correlation Analysis: [[paper]](https://proceedings.mlr.press/v28/andrew13.html)
