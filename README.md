@@ -57,6 +57,14 @@
 
 * Deep learning based feature-level integration of multi-omics data for breast cancer patients survival analysis: [[paper]](https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-020-01225-8.pdf) [[code]](https://github.com/tongli1210/BreastCancerSurvivalIntegration) [[review]](https://wjddyd66.github.io/paper/Cross_AE(23)/)
 
+* Cooperative Learning for Multi-view Analysis: [[paper]](https://arxiv.org/pdf/2112.12337.pdf) [[code]](https://github.com/dingdaisy/cooperative-learning) [[review]](https://wjddyd66.github.io/paper/Cooperative(26)/)
+
+* Multimodal Dynamics: Dynamical Fusion for Trustworthy Multimodal Classification: [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Multimodal_Dynamics_Dynamical_Fusion_for_Trustworthy_Multimodal_Classification_CVPR_2022_paper.pdf) [[code]](https://github.com/TencentAILabHealthcare/mmdynamics) [[review]](https://wjddyd66.github.io/paper/DME-AEE(31)/)
+
+* Disentangled-Multimodal Adversarial Autoencoder: [[paper]](https://pubmed.ncbi.nlm.nih.gov/32746154/) [[review]](https://wjddyd66.github.io/paper/MConfident-net(28)/)
+
+* MLDRL: Multi-loss disentangled representation learning for predicting esophageal cancer response to neoadjuvant chemoradiotherapy using longitudinal CT images: [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000743) [[code]](https://github.com/yuehailin/MLDRL) [[review]](https://wjddyd66.github.io/paper/MLDRL(32)/)
+
 
 # Dimension Reduction
 * Deep Canonical Correlation Analysis: [[paper]](https://proceedings.mlr.press/v28/andrew13.html)
@@ -130,3 +138,11 @@
 * SMOTE: Synthetic Minority Over-sampling Technique: [[paper]](https://arxiv.org/pdf/1106.1813.pdf)
 
 * Multimodal data visualization, denoising and clustering with integrated diffusion: [[paper]](https://arxiv.org/pdf/2102.06757.pdf) [[review]](https://wjddyd66.github.io/paper/Paper(20)Multi_Modal_Visualization/)
+
+* Uncertainty-Guided Progressive GANs for Medical Image Translation: [[paper]](https://arxiv.org/pdf/2106.15542.pdf) [[code]](https://github.com/ExplainableML/UncerGuidedI2I) [[review]](https://wjddyd66.github.io/paper/UP-GAN(25)/)
+
+* Addressing Failure Prediction by Learning Model Confidence: [[paper]](https://proceedings.neurips.cc/paper/2019/file/757f843a169cc678064d9530d12a1881-Paper.pdf) [[code]](https://github.com/valeoai/ConfidNet) [[review]](https://wjddyd66.github.io/paper/Confident-net(27)/)
+
+* Auto-Encoding Variational Bayes: [[paper]](https://arxiv.org/pdf/1312.6114.pdf) [[review]](https://wjddyd66.github.io/paper/VAE(29)/)
+
+* Adversarial Autoencoders: [[paper]](https://arxiv.org/pdf/1511.05644.pdf) [[code1]](https://github.com/bfarzin/pytorch_aae/blob/master/main_aae.py) [[code2]](https://github.com/yoonsanghyu/AAE-PyTorch) [[review]](https://wjddyd66.github.io/paper/AAE(30)/)
